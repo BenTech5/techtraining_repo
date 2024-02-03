@@ -1,0 +1,3 @@
+GitHub is a collaborative code hosting platform that facilitates version control. The steps include downloading 
+Git, configuring user information, creating a new directory, setting up a sample project, and creating a new
+repository on GitHub.
