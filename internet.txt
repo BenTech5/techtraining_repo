@@ -1,0 +1,5 @@
+	The document provides an overview of the Internet, explaining that it is a global network of interconnected 
+computers communicating through standardized protocols. Vint Cerf, a key figure in the development of the Internet, 
+is mentioned. The transmission of information on the Internet is discussed, covering various mediums like cables 
+and wireless signals. Additionally, the document delves into the role of IP addresses and DNS in facilitating 
+data transfer.
