@@ -1,0 +1,3 @@
+The provided text explains the fundamentals of the Hypertext Transfer Protocol (HTTP), which is foundational 
+to the World Wide Web. It describes how HTTP facilitates the transfer of information between networked devices, 
+with a typical flow involving a client making a request to a server and receiving a response.
